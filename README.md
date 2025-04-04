@@ -1,3 +1,3 @@
 # SistemaDeIdade
 
-- Criando um sistema simple de decisão if-else para a identificação de idade.
+- Criando um sistema simples com C, utilizando decisão if-else para a identificação de idade.
